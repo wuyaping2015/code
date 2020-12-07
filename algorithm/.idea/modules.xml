@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listnode/listnode.iml" filepath="$PROJECT_DIR$/listnode/listnode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack&amp;queue/stack&amp;queue.iml" filepath="$PROJECT_DIR$/stack&amp;queue/stack&amp;queue.iml" />
+    </modules>
+  </component>
+</project>
